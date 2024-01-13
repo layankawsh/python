@@ -1,0 +1,8 @@
+good,end
+bad,end
+very good,end
+good,end
+thankyou,end
+thankyou,end
+not bad,end
+good,end

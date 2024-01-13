@@ -1,0 +1,13 @@
+1,Sama M.W.600 ml,1.44
+2,Premia D.W 600 Ml,1.36
+3,Sama Appel Juice,4.89
+4,Sama Mango Juice,4.89
+5,Sama Orange Juice,4.89
+6,Sama Pineapple Juice,4.89
+7,Sama Multifruit Juice,4.89
+8,Sama Guava Juice,4.89
+9,Sama Cola CSD,5.46
+10,Sama Lemon CSD,5.46
+11,Sama Orange CSD,5.46
+12,Sama fruit CSD,5.46
+13,Raz Energy Drink,6.64
